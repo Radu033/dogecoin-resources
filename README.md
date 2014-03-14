@@ -188,6 +188,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Spinthatdoge - Wheel of fortune](http://www.spinthatdoge.com)
 - [Such BlackJack](http://suchblackjack.com/)
 - [Moonbets.com - Real events betting](http://moonbets.com/)
+- [Satoshi Jackpot - Free Doges much win](http://satoshijackpot.com/]
 
 ## Development
 
